@@ -1,0 +1,7 @@
+api_key_path: 'client.p12'
+target_file_name: 'paryski-spleen.epub'
+destination_dir: 'epub'
+api_issuer: 'very-big-number@developer.gserviceaccount.com'
+template_dir: ~
+book_title: 'Paryski spleen'
+book_author: 'Charles Baudelaire'
