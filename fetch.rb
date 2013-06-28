@@ -17,6 +17,3 @@ if File.exists? CONFIG_FILE
 else
   raise RuntimeError, 'Copy config.yml.dist file to config.yml and edit it'
 end
-
-
-
