@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'google/api_client'
 require 'faraday'
 require 'epubbery'

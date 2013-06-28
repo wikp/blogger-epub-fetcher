@@ -20,4 +20,4 @@ to write code yourself.
 * Run `cp config.yml config.yml.dist`.
 * Change information in `config.yml`.
 * Run script with an address of blog you want to download as an argument:
-  `ruby blogger-fetcher.rb http://example.blogspot.com`.
+  `fetch.rb http://example.blogspot.com`.
