@@ -21,3 +21,6 @@ to write code yourself.
 * Change information in `config.yml`.
 * Run script with an address of blog you want to download as an argument:
   `fetch.rb http://example.blogspot.com`.
+
+[1]: http://calibre-ebook.com/‎
+[2]: https://code.google.com/apis/console/
